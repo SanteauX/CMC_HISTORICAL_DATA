@@ -1,6 +1,6 @@
 public class HistoricalObserver {
   
-    public static void scrapeHistoricalCurrency(String url){
+    public static void ObserveHistoricalCurrency(String url){
       try {
         int iterator = 1;
         final Document coinMarketCapCurrencies = Jsoup.connect(url).get();
