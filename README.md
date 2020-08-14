@@ -1,4 +1,4 @@
-# ExploreCoinMarketCapHistoricalData
+# CMC_HISTORICAL_DATA
 Just to show how to explore Coinmarketcap's historical data with Java purely for educational purpose.
 
 Please respect Coinmarketcap's terms of use:
